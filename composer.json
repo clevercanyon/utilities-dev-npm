@@ -20,12 +20,12 @@
 	},
 	"autoload"          : {
 		"psr-4" : {
-			"Clever_Canyon\\Utilities_Dev_Npm\\" : "./src/classes"
+			"Clever_Canyon\\Utilities_Dev_NPM\\" : "./src/classes"
 		}
 	},
 	"autoload-dev"      : {
 		"psr-4" : {
-			"Clever_Canyon\\Utilities_Dev_Npm__Tests\\" : "./tests/classes"
+			"Clever_Canyon\\Utilities_Dev_NPM__Tests\\" : "./tests/classes"
 		}
 	},
 	"scripts"           : {
