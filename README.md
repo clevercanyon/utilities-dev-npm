@@ -1,3 +1,3 @@
-# CLEVER CANYON: PHP/JS Utilities (NPM Dev Dependencies)
+# Clever Canyon: PHP/JS Utilities (NPM Dev Dependencies)
 
-CLEVER CANYON’s utilities for PHP/JS (NPM dev dependencies).
+Clever Canyon’s utilities for PHP/JS (NPM dev dependencies).

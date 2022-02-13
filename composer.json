@@ -1,10 +1,10 @@
 {
 	"license"     : "GPL-2.0-or-later",
 	"name"        : "clevercanyon/utilities-dev-npm",
-	"description" : "CLEVER CANYON’s utilities for PHP/JS (NPM dev dependencies).",
+	"description" : "Clever Canyon’s utilities for PHP/JS (NPM dev dependencies).",
 	"authors"     : [
 		{
-			"name"     : "CLEVER CANYON",
+			"name"     : "Clever Canyon",
 			"homepage" : "https://clevercanyon.com",
 			"role"     : "organization"
 		}
